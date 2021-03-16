@@ -28,6 +28,7 @@ Saving successful migration to network...
 Saving artifacts...
 
 ** Libraries **
+
 Please run npm install
 
 Node v15.6.0
@@ -36,6 +37,7 @@ Solidity v0.4.24 (solc-js)
 web3 - ./src/js/web3.min.js
 
 ** UML Documents **
+
 All documents under ./umlDocuments
 
 ** IPFS **
