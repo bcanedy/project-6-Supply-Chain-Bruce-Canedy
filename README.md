@@ -28,6 +28,8 @@ Saving successful migration to network...
 Saving artifacts...
 
 ** Libraries **
+Please run npm install
+
 Node v15.6.0
 Truffle v4.1.14 (core: 4.1.14)
 Solidity v0.4.24 (solc-js)
