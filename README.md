@@ -29,7 +29,7 @@ Saving artifacts...
 
 ** Libraries **
 
-Please run npm install
+Please run npm install. Following this program : https://knowledge.udacity.com/questions/188272
 
 Node v15.6.0
 Truffle v4.1.14 (core: 4.1.14)
